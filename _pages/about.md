@@ -52,25 +52,25 @@ Research Highlights
 Our manuscript [Non-hermitian topology in multiterminal superconducting junctions](https://arxiv.org/abs/2408.01289) was recently accepted in Physical Review Letters. In this work, we show that Multiterminal Josephson Junctions coupled to normal metals host stable exceptional points. We find non-trivial non-hermitian topology by winding of two complex Andreev bound state bands around each other, leading to a point gap as seen below.
 
 
-![Example GIF](files/testAnimated_filt.gif)
+#![Example GIF](files/testAnimated_filt.gif)
 
 
 <p align="center">
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
-    <img src="files/testAnimated_filt.gif" width="200px" />
+    <img src="files/testAnimated_filt1.gif" width="300px" />
     <br />
-    <strong>GIF 1 Description</strong>
+    <strong> Line Gap </strong>
   </div>
   
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
-    <img src="files/testAnimated_filt1.gif" width="200px" />
+    <img src="files/testAnimated_filtep.gif" width="300px" />
     <br />
-    <strong>GIF 2 Description</strong>
+    <strong> Exceptional Point Description</strong>
   </div>
   
   <div style="display: inline-block; text-align: center;">
-    <img src="files/testAnimated_filtep.gif" width="200px" />
+    <img src="files/testAnimated_filt.gif" width="300px" />
     <br />
-    <strong>GIF 3 Description</strong>
+    <strong> Point Gap </strong>
   </div>
 </p>
