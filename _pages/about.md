@@ -53,3 +53,24 @@ Our manuscript [Non-hermitian topology in multiterminal superconducting junction
 
 
 ![Example GIF](files/testAnimated_filt.gif)
+
+
+<p align="center">
+  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+    <img src="files/testAnimated_filt.gif" width="200px" />
+    <br />
+    <strong>GIF 1 Description</strong>
+  </div>
+  
+  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+    <img src="files/testAnimated_filt1.gif" width="200px" />
+    <br />
+    <strong>GIF 2 Description</strong>
+  </div>
+  
+  <div style="display: inline-block; text-align: center;">
+    <img src="files/testAnimated_filtep.gif" width="200px" />
+    <br />
+    <strong>GIF 3 Description</strong>
+  </div>
+</p>
