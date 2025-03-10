@@ -11,12 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics, University of Konstanz, 2025 (expected)
-* M.S. in Phyics, ETH Zurich, 2021
-* B.S. in Physics, University of Konstanz, 2018
+* Ph.D in Physics, University of Konstanz, 2021-2025 (expected)
+* M.S. in Phyics, ETH Zurich, 2018-2021
+* B.S. in Physics, University of Konstanz, 2015-2018
 
 Academic experience
 ======
+* 2021-2025: PhD student in physics. First and corresponding author of four articles.
+
 * 2024-2025: Co-Supervisor for Master Student Valentin Wilhelm. Thesis: Non-hermitian topology, spin physics and transport in hybrid superconducting nanosystems.
   
 * 2024: Co-Supervisor for Bachelor Student Miriam Ebert. Thesis: Theoretical Analysis of Sextets and Andreev Bound States in Multiterminal Josephson Junctions.
