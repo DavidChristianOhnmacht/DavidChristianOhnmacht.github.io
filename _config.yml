@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "David Christian Ohnmacht"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a PhD student in at University of Konstanz focussing on superconducting systems."
   location         : "Konstanz, Germany"
   employer         : "University of Konstanz"
   uri              : # URL
@@ -35,9 +35,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.de/citations?user=9HAepCsAAAAJ&hl=de&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-5074-057X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
