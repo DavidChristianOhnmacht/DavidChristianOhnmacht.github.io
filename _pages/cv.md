@@ -11,35 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, University of Konstanz, 2025 (expected)
+* M.S. in Phyics, ETH Zurich, 2021
+* B.S. in Physics, University of Konstanz, 2018
 
-Work experience
+Academic experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024-2025: Co-Supervisor for Master Student Valentin Wilhelm. Thesis: 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2024: Co-Supervisor for Bachelor Student Miriam Ebert. Thesis: Theoretical Analysis of Sextets and Andreev Bound States in Multiterminal Josephson Junctions.
+
+* 2021-2024: Teaching Assistant
+  * preparing exercise sheets
+  * conducting tutorials
 
 Publications
 ======
@@ -59,6 +43,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
