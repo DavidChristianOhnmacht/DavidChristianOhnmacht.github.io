@@ -71,6 +71,26 @@ Our manuscript [Non-hermitian topology in multiterminal superconducting junction
   </div>
 </p>
 
+Research Highlights
+======
+
+In the manuscript [Quartet tomography in multiterminal Josephson junctions](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.L241407) we manged to apply a machine learning algorithm to analyze the specroscopic data of an Andreev molecule of the IBM Zurich group to find signatures of Quartet processes and hybridzation. 
+
+<p align="center">
+  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+    <img src="files/Quart_exp.gif" width="300px" />
+    <br />
+     Experimental Data 
+  </div>
+  
+  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+    <img src="files/Quart_keras.gif" width="300px" />
+    <br />
+     Extrapolated Data using Keras 
+  </div>
+  
+</p>
+
 
 Teaching Highlights
 ======
