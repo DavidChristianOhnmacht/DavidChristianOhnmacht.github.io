@@ -11,7 +11,7 @@ I am a PhD student in the group of Professor Wolfgang Belzig at University of Ko
 
 Multiterminal Josephson junctions...
 
-... [host non-hermitian Topology](https://arxiv.org/abs/2408.01289).  
+... host [non-hermitian Topology](https://arxiv.org/abs/2408.01289).  
 
 ... host unique transport processes involving multiple Cooper Pairs, so-called [Quartets](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.L241407).
 
@@ -20,6 +20,7 @@ Superconductor-superconductor junctions...
 ... naturally exhibit [Floquet physics](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033176) upon an applied voltage.
 
 ... heavily break the [thermodynamic uncertainty relation](https://arxiv.org/abs/2408.01281) (TUR).
+
 
 
 Short CV
@@ -45,28 +46,29 @@ Short CV
   * PhD student
   * Supervisor: Professor Wolfgang Belzig
   * Co-Supervisor: Professor Juan Carlos Cuevas
+  * 
 
 Research Highlights
 ======
 
-Our manuscript [Non-hermitian topology in multiterminal superconducting junctions](https://arxiv.org/abs/2408.01289) was recently accepted in Physical Review Letters. In this work, we show that Multiterminal Josephson Junctions coupled to normal metals host stable exceptional points. We find non-trivial non-hermitian topology by winding of two complex Andreev bound state bands around each other, leading to a point gap as seen below.
+Our manuscript [Non-hermitian topology in multiterminal superconducting junctions](https://arxiv.org/abs/2408.01289) was recently accepted in Physical Review Letters. In this work, we show that Multiterminal Josephson Junctions coupled to normal metals host stable exceptional points. We find non-trivial non-hermitian topology by winding of two complex Andreev bound state bands around each other, leading to a point gap as illustrated below.
 
 <p align="center">
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
-    <img src="files/testAnimated_filt1.gif" width="250px" />
+    <img src="files/testAnimated_filt1.gif" width="200px" />
     <br />
-    <strong> Line Gap </strong>
+     Line Gap 
   </div>
   
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
-    <img src="files/testAnimated_filtep.gif" width="250px" />
+    <img src="files/testAnimated_filtep.gif" width="200px" />
     <br />
-    <strong> Exceptional Point </strong>
+     Exceptional Point 
   </div>
   
   <div style="display: inline-block; text-align: center;">
-    <img src="files/testAnimated_filt.gif" width="250px" />
+    <img src="files/testAnimated_filt.gif" width="200px" />
     <br />
-    <strong> Point Gap </strong>
+     Point Gap 
   </div>
 </p>
