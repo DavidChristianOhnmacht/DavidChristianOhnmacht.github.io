@@ -1,7 +1,7 @@
 ---
 title: "Thermodynamic uncertainty relations in superconducting junctions"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'We show that superconducting junctions heavily violate the thermodynamic uncertainty relation.'
 date: 2024, 2 August
