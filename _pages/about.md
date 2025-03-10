@@ -61,7 +61,7 @@ Our manuscript [Non-hermitian topology in multiterminal superconducting junction
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
     <img src="files/testAnimated_filtep.gif" width="300px" />
     <br />
-    <strong> Exceptional Point Description</strong>
+    <strong> Exceptional Point </strong>
   </div>
   
   <div style="display: inline-block; text-align: center;">
