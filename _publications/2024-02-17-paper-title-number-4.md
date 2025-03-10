@@ -10,4 +10,6 @@ date: 2024, 2 August
 citation: '	arXiv:2408.01281 (2024).'
 ---
 
+[Find the article here](https://arxiv.org/abs/2408.01281)
+
 Quantum conductors attached to metallic reservoirs have been demonstrated to overcome the thermodynamic uncertainty relation (TUR), a trade-off relation between the amount of dissipation and the absence of charge and heat current fluctuations. Here, we report large TUR violations when superconducting reservoirs replace metallic ones. The coexistence of different transport processes, namely (multiple) Andreev reflection, where electrons and their retro-reflected holes create Cooper pairs, in addition to the normal quasiparticle transport is identified as the source for such TUR breakdowns. The large TUR violation is a remarkable advantage for building low dissipative and highly stable quantum thermal machines.
