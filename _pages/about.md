@@ -74,4 +74,4 @@ Our manuscript [Non-hermitian topology in multiterminal superconducting junction
 
 Teaching Highlights
 ======
-During my first semester as a PhD student, I had the pleasure to work with two extremely motivated graduate students in the course General Relativity. The course was very focused on the applications of General Relativity, which is why I made some [notes on the basis of Differential Geometry](https://davidchristianohnmacht.github.io/teaching/2021-GR) for them.
+During my first semester as a PhD student, I had the pleasure to work with two extremely motivated graduate students in the course General Relativity. The course was very focused on the applications of General Relativity, and to accompany that, I made [notes on the basis of Differential Geometry](https://davidchristianohnmacht.github.io/teaching/2021-GR) for them.
