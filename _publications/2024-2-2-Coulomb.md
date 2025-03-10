@@ -2,10 +2,10 @@
 title: "Interplay of Andreev Reflection and Coulomb Blockade in Hybrid Superconducting Single-Electron Transistors"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2024-2-2-Coulomb
 excerpt: 'We show that Cooper pair transport and (multiple) Andreev reflections are relevant far above the superconducting gap in superconducting single-electron transitors.'
-date: 2024, 2 February
-#venue: 'Physical Review Letters'
+date: 2024-2-2
+venue: 'Physical Review Letters'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Phys. Rev. Lett. 132, 057001 (2024)'
