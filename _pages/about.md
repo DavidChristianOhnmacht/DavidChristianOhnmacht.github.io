@@ -49,4 +49,7 @@ Short CV
 Research Highlights
 ======
 
+Our manuscript [Non-hermitian topology in multiterminal superconducting junctions](https://arxiv.org/abs/2408.01289) was recently accepted in Physical Review Letters. In this work, we show that Multiterminal Josephson Junctions coupled to normal metals host stable exceptional points. We find non-trivial non-hermitian topology by winding of two complex Andreev bound state bands around each other, leading to a point gap as seen below.
+
+
 ![Example GIF](files/testAnimated_filt.gif)
