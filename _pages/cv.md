@@ -17,7 +17,7 @@ Education
 
 Academic experience
 ======
-* 2024-2025: Co-Supervisor for Master Student Valentin Wilhelm. Thesis: 
+* 2024-2025: Co-Supervisor for Master Student Valentin Wilhelm. Thesis: Non-hermitian topology, spin physics and transport in hybrid superconducting nanosystems.
   
 * 2024: Co-Supervisor for Bachelor Student Miriam Ebert. Thesis: Theoretical Analysis of Sextets and Andreev Bound States in Multiterminal Josephson Junctions.
 
