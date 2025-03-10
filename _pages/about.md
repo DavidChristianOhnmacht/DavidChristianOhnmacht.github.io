@@ -41,6 +41,6 @@ Short CV
   * Willi-Studer-Preis
   * Year's best of Physics Master's program 2021/22 ETH Zurich (Grade: 6.00)
 
-2021-Today, University of Konstanz
-PhD student
-Supervisor: Professor Wolfgang Belzig & Juan Carlos Cuevas
+* 2021-Today, University of Konstanz
+  * PhD student
+  * Supervisor: Professor Wolfgang Belzig & Juan Carlos Cuevas
