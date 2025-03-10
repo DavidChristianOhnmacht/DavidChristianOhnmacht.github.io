@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'We find signatures of Quartet processes in spectroscopic data of an Andreev molecule, illustrating the connection between hybridization of Andreev bound states and these multi-Cooper Pair processes.'
 date: 2024, 26 June
-venue: 'Physical Review B'
+#venue: 'Physical Review B'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Phys. Rev. B 109, L241407 (2024)'
