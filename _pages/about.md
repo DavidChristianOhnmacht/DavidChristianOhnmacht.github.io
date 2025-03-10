@@ -25,21 +25,21 @@ Superconductor-superconductor junctions...
 Short CV
 ======
 
-2015-2018, University of Konstanz
-Bachelor of Science - BS, Physics
-Thesis: Density fluctuations in honeycomb lattice: Monte-Carlo simulation and density functional theory
-Supervisor: Professor Matthias Fuchs
-Grade: 1.1
+* 2015-2018, University of Konstanz
+  * Bachelor of Science - BS, Physics
+  * Thesis: Density fluctuations in honeycomb lattice: Monte-Carlo simulation and density functional theory
+  * Supervisor: Professor Matthias Fuchs
+  * Grade: 1.1 (best: 1.0)
 
-2018-2021, ETH Zurich
-Master of Science - MS, Physics
-Thesis: Exotic surface states in d-wave superconductors
-Supervisor: Professor Manfred Sigrist
-Grade: 6.0
+* 2018-2021, ETH Zurich
+   * Master of Science - MS, Physics
+   * Thesis: Exotic surface states in d-wave superconductors
+   * Supervisor: Professor Manfred Sigrist
+   * Grade: 6.0 (best: 6.0)
 
-2022, ETH Zurich
-Willi-Studer-Preis
-Year's best of Physics Master's program 2021/22 ETH Zurich (Grade: 6.00)
+* 2022, ETH Zurich
+  * Willi-Studer-Preis
+  * Year's best of Physics Master's program 2021/22 ETH Zurich (Grade: 6.00)
 
 2021-Today, University of Konstanz
 PhD student
