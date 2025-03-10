@@ -20,8 +20,8 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Prices"
-    url: /Prices/
+  - title: "Prizes"
+    url: /Prizes/
     
   #- title: "Prizes"
   #  url: /markdown/
