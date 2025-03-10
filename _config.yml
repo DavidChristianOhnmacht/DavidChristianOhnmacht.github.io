@@ -13,9 +13,9 @@ title                    : "David Christian Ohnmacht"
 title_separator          : "-"
 name                     : &name "David Christian Ohnmacht"
 description              : &description "I am a PhD student at University of Konstanz"
-url                      : "https://davidchristianohnmacht.github.io/" #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://davidchristianohnmacht.github.io #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DavidChristianOhnmacht/DavidChristianOhnmacht.github.io"
+repository               : "DavidChristianOhnmacht.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
