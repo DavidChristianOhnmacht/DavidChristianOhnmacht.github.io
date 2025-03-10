@@ -11,4 +11,4 @@ redirect_from:
 
 Year's best of Physics Master's program 2021/22 ETH Zurich (Grade: 6,00)
 
-[View PDF](/files/Willi2022.pdf)
+[Willi-Studer-Preis List 2022](/files/Willi2022.pdf)
