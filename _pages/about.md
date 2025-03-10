@@ -43,4 +43,10 @@ Short CV
 
 * 2021-Today, University of Konstanz
   * PhD student
-  * Supervisor: Professor Wolfgang Belzig & Juan Carlos Cuevas
+  * Supervisor: Professor Wolfgang Belzig
+  * Co-Supervisor: Professor Juan Carlos Cuevas
+
+Research Highlights
+======
+
+![Example GIF](files/testAnimated_filt.gif)
