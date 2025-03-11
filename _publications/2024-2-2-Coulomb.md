@@ -8,7 +8,7 @@ date: 2024-2-2
 venue: 'Physical Review Letters'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Phys. Rev. Lett. 132, 057001 (2024)'
+citation: 'L. S. Rey, D. C. Ohnmacht, C. B. Winkelmann, J. Siewert, W. Belzig, E. Scheer, Phys. Rev. Lett. 132, 057001 (2024)'
 ---
 
 [Find the article here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.057001)
