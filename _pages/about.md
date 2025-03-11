@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the group of Professor Wolfgang Belzig at University of Konstanz in the south of Germany close to the swiss border. My research interests are superconducting junctions, in particular Multiterminal Josephson Junctions and transport junctions like Superconductor-superconductor (SS) junctions. These systems are very exciting for a theoretician like myself as they provide a beautiful playground for different aspects of condensed matter physics and mathematics. For example:
+I am a PhD student in the group of Professor Wolfgang Belzig at University of Konstanz in the south of Germany close to the swiss border. My research interests are superconducting junctions, in particular multiterminal Josephson junctions and transport junctions like superconductor-superconductor junctions. These systems are very exciting for a theoretician like me as they provide a beautiful playground for different aspects of condensed matter physics and mathematics. For example:
 
 Multiterminal Josephson junctions...
 
@@ -49,7 +49,7 @@ Short CV
 Research Highlights
 ======
 
-Our manuscript [Non-hermitian topology in multiterminal superconducting junctions](https://arxiv.org/abs/2408.01289) was recently accepted in Physical Review Letters. In this work, we show that Multiterminal Josephson Junctions coupled to normal metals host stable exceptional points. We find non-trivial non-hermitian topology by winding of two complex Andreev bound state bands around each other, leading to a point gap as illustrated below.
+Our manuscript [Non-hermitian topology in multiterminal superconducting junctions](https://arxiv.org/abs/2408.01289) was recently accepted in Physical Review Letters. In this work, we show that Multiterminal Josephson Junctions coupled to normal metals host stable exceptional points. We find non-trivial non-hermitian topology indicated by winding of two complex Andreev bound state bands around each other with an associated point gap as illustrated below.
 
 <p align="center">
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
@@ -71,10 +71,14 @@ Our manuscript [Non-hermitian topology in multiterminal superconducting junction
   </div>
 </p>
 
+
+
+
+
 Research Highlights
 ======
 
-In the manuscript [Quartet tomography in multiterminal Josephson junctions](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.L241407) we manged to apply a machine learning algorithm to analyze the specroscopic data of an Andreev molecule of the IBM Zurich group to find signatures of Quartet processes and hybridzation. 
+In the manuscript [Quartet tomography in multiterminal Josephson junctions](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.L241407) we apply a machine learning algorithm to analyze the specroscopic data of an [Andreev molecule measured by the IBM Zurich group](https://www.nature.com/articles/s41467-023-42356-6) to find signatures of Quartet processes related to hybridzation. 
 
 <p align="center">
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
@@ -92,6 +96,9 @@ In the manuscript [Quartet tomography in multiterminal Josephson junctions](http
 </p>
 
 
+
+
+
 Teaching Highlights
 ======
-During my first semester as a PhD student, I had the pleasure to work with two extremely motivated graduate students in the course General Relativity. The course was very focused on the applications of General Relativity, and to accompany that, I made [notes on the basis of Differential Geometry](https://davidchristianohnmacht.github.io/teaching/2021-GR) for them.
+During my first semester as a PhD student, I had the pleasure to work with two extremely motivated graduate students in the course General Relativity. At the request of the students, I made some additional [notes on the basis of Differential Geometry](https://davidchristianohnmacht.github.io/teaching/2021-GR) for them.
