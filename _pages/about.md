@@ -7,21 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the group of Professor Wolfgang Belzig at University of Konstanz in the south of Germany close to the swiss border. My research interests are superconducting junctions, in particular multiterminal Josephson junctions and transport junctions like superconductor-superconductor junctions. These systems are very exciting for a theoretician like me as they provide a beautiful playground for different aspects of condensed matter physics and mathematics. For example:
+I am a PhD student in the group of Professor Wolfgang Belzig at University of Konstanz in the south of Germany close to the swiss border. My research interests are superconducting junctions, in particular multiterminal Josephson junctions. These systems are very exciting from a theoretical point of view as they provide a beautiful playground for different aspects of condensed matter physics. For example:
 
 Multiterminal Josephson junctions...
 
-... host [non-hermitian Topology](https://arxiv.org/abs/2408.01289).  
+... host [non-hermitian Topology](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.156601).  
 
 ... host unique transport processes involving multiple Cooper Pairs, so-called [Quartets](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.L241407).
 
-Superconductor-superconductor junctions...
+Superconducting junctions...
 
 ... naturally exhibit [Floquet physics](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033176) upon an applied voltage.
 
-... heavily break the [thermodynamic uncertainty relation](https://arxiv.org/abs/2408.01281) (TUR).
+... heavily break the [thermodynamic uncertainty relation](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.L012075) (TUR).
 
+These systems are also extremely relevant for future quantum technologies. Thus, most aspects considered in my works relate to effects, which are ideally observable within experiments. Furthermore, I like to directly collaborate with experimentalists in helping with the interpretation of measurement results and to propose theoretical models to explain the underlying data. A highlight for this has been my contribution to the following work, where a four-terminal Josephson junction with phase control was analyzed spectroscopically for the first time:
 
+[Exploring the Energy Spectrum of a Four-Terminal Josephson Junction: Toward Topological Andreev Band Structures](https://journals.aps.org/prx/abstract/10.1103/qd3y-f912)
+
+In this work, we managed to explain the underlying measurement data by a tri-Andreev molecule, where three Andreev bound states hybridize. Furthermore, the underlying model suggests the existence of non-trivial topology. Whereas further experimental advances have to be made in order to rigorously demonstrate the topological characteristics of these systems, this paper nicely illustrates the first steps towards tuneable topological states in superconducting devices.
 
 Short CV
 ======
@@ -29,19 +33,20 @@ Short CV
   * PhD student
   * Supervisor: Professor Wolfgang Belzig
   * Co-Supervisor: Professor Juan Carlos Cuevas
+  * Thesis: Transport Mechanisms and Topology in Superconducting Junctions
 
 * 2022, ETH Zurich
   * Willi-Studer-Preis
   * Year's best of Physics Master's program 2021/22 ETH Zurich (Grade: 6.00)
 
 * 2018-2021, ETH Zurich
-   * Master of Science - MS, Physics
+   * Master of Science ETH - M.Sc. ETH, Physics
    * Thesis: Exotic surface states in d-wave superconductors
    * Supervisor: Professor Manfred Sigrist
    * Grade: 6.0 (best: 6.0)
 
 * 2015-2018, University of Konstanz
-  * Bachelor of Science - BS, Physics
+  * Bachelor of Science - B.Sc., Physics
   * Thesis: Density fluctuations in honeycomb lattice: Monte-Carlo simulation and density functional theory
   * Supervisor: Professor Matthias Fuchs
   * Grade: 1.1 (best: 1.0)
@@ -49,7 +54,7 @@ Short CV
 Research Highlights
 ======
 
-Our manuscript [Non-hermitian topology in multiterminal superconducting junctions](https://arxiv.org/abs/2408.01289) was recently accepted in Physical Review Letters. In this work, we show that Multiterminal Josephson Junctions coupled to normal metals host stable exceptional points. We find non-trivial non-hermitian topology indicated by winding of two complex Andreev bound state bands around each other with an associated point gap as illustrated below.
+Our manuscript [Non-hermitian topology in multiterminal superconducting junctions](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.156601) was recently accepted in Physical Review Letters. In this work, we show that Multiterminal Josephson Junctions coupled to normal metals host stable exceptional points. We find non-trivial non-Hermitian topology indicated by winding of two complex Andreev bound state bands around each other with an associated point gap as illustrated below.
 
 <p align="center">
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
