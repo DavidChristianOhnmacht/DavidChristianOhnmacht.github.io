@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics, University of Konstanz, 2021-2025 (expected)
-* M.S. in Phyics, ETH Zurich, 2018-2021
-* B.S. in Physics, University of Konstanz, 2015-2018
+* Ph.D in Physics, University of Konstanz, 2021-2025 (expected defence date: mid-January 2026)
+* M.S. in Phyics, ETH Zurich, 2018-2021, Grade: 6.0/6.0
+* B.S. in Physics, University of Konstanz, 2015-2018, Grade: 1,1 (best 1,0)
 
 Academic experience
 ======
-* 2021-2025: PhD student in physics. First and corresponding author of four articles.
+* 2021-2025: PhD student in physics. First and corresponding author of four articles. Thesis: Transport Mechanisms and Topology in Superconducting Junctions
 
 * 2024-2025: Co-Supervisor for Master Student Valentin Wilhelm. Thesis: Non-hermitian topology, spin physics and transport in hybrid superconducting nanosystems.
   
