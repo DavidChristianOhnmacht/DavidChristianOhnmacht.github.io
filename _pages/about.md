@@ -7,14 +7,37 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the group of Professor Wolfgang Belzig at University of Konstanz in the south of Germany close to the swiss border. 
+I am a PhD student in the group of Professor Wolfgang Belzig at University of Konstanz in the south of Germany close to the swiss border. My research interests are superconducting junctions, in particular multiterminal Josephson junctions. These systems are very exciting from a theoretical point of view as they provide a beautiful playground for different aspects of condensed matter physics. 
+
+What are superconductors?
 
 <video width="560" controls>
   <source src="/files/Vid_1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-My research interests are superconducting junctions, in particular multiterminal Josephson junctions. These systems are very exciting from a theoretical point of view as they provide a beautiful playground for different aspects of condensed matter physics. For example:
+How does superconducting transport manifest?
+
+<video width="560" controls>
+  <source src="/files/Vid_2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+What's unique about multiterminal Josephson junctions?
+
+<video width="560" controls>
+  <source src="/files/Vid_3.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+What did we do with multiterminal Josephson junctions?
+
+<video width="560" controls>
+  <source src="/files/Vid_4.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+A few research highlights:
 
 Multiterminal Josephson junctions...
 
