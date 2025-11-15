@@ -1,7 +1,7 @@
 ---
 title: "Topology and Homotopy"
-collection: teaching
-type: "Graduate course"
+collection: Notes
+type: "Notes"
 permalink: /teaching/2025-Toplogy
 venue: "University of Konstanz"
 date: 2025-11-13
