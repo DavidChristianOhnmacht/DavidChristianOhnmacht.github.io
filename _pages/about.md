@@ -7,17 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the group of Professor Wolfgang Belzig at University of Konstanz in the south of Germany close to the swiss border. My research interests are superconducting junctions, in particular multiterminal Josephson junctions. These systems are very exciting from a theoretical point of view as they provide a beautiful playground for different aspects of condensed matter physics. 
+I am a postdoc in the group of Stefano Bosco at QuTech in TU Delft currently investigating how to combine semiconducting systems used for spin qubits with superconductivity to explore Andreev spin qubit and other superconductor-semiconductor hybrid platforms.
+
+My research interests are superconducting hybrid structures, in particular (multiterminal) Josephson junctions. These systems are very exciting from a theoretical point of view as they provide a beautiful playground for different aspects of condensed matter physics ranging from topological aspects, to thermodynamics properties and use for quantum information science.
+
+In the following, I provide some educational videos on the works I have done in my PhD in the group of Professor Wolfgang Belzig in Konstanz.
 
 What are superconductors?
 
 <video width="560" controls>
   <source src="/files/Vid_11.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<video width="560" controls>
-  <source src="/files/Vid_111.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -64,8 +63,8 @@ In this work, we managed to explain the underlying measurement data by a tri-And
 
 Short CV
 ======
-* 2021-Today, University of Konstanz
-  * PhD student
+* 2021-2026, University of Konstanz
+  * Dr. rer. nat. with distinction, summa cum laude
   * Supervisor: Professor Wolfgang Belzig
   * Co-Supervisor: Professor Juan Carlos Cuevas
   * Thesis: Transport Mechanisms and Topology in Superconducting Junctions
