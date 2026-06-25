@@ -63,6 +63,9 @@ In this work, we managed to explain the underlying measurement data by a tri-And
 
 Short CV
 ======
+* 2026-present, QuTech, TU Delft
+  * Postdoc in group of Stefano Bosco
+
 * 2021-2026, University of Konstanz
   * Dr. rer. nat. with distinction, summa cum laude
   * Supervisor: Professor Wolfgang Belzig
