@@ -11,19 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics, University of Konstanz, 2021-2025 (expected defence date: mid-January 2026)
+* Dr. rer. nat. in Physics, University of Konstanz, 2021-2026, summa cum laude
 * M.S. in Phyics, ETH Zurich, 2018-2021, Grade: 6.0/6.0
 * B.S. in Physics, University of Konstanz, 2015-2018, Grade: 1,1 (best 1,0)
 
 Academic experience
 ======
-* 2021-2025: PhD student in physics. First and corresponding author of four articles. Thesis: Transport Mechanisms and Topology in Superconducting Junctions
+* 2026-present: Postdoc
+
+* 2021-2026: PhD student in physics. First and corresponding author of four articles. Thesis: Transport Mechanisms and Topology in Superconducting Junctions
 
 * 2024-2025: Co-Supervisor for Master Student Valentin Wilhelm. Thesis: Non-hermitian topology, spin physics and transport in hybrid superconducting nanosystems.
   
 * 2024: Co-Supervisor for Bachelor Student Miriam Ebert. Thesis: Theoretical Analysis of Sextets and Andreev Bound States in Multiterminal Josephson Junctions.
 
-* 2021-2024: Teaching Assistant
+* 2021-2026: Teaching Assistant
   * preparing exercise sheets
   * conducting tutorials
 
