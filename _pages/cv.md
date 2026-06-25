@@ -17,9 +17,9 @@ Education
 
 Academic experience
 ======
-* 2026-present: Postdoc
+* 2026-present: Postdoc at QuTech, TU Delft
 
-* 2021-2026: PhD student in physics. First and corresponding author of four articles. Thesis: Transport Mechanisms and Topology in Superconducting Junctions
+* 2021-2026: PhD student in physics at University of Konstanz. First and corresponding author of four articles. Thesis: Transport Mechanisms and Topology in Superconducting Junctions
 
 * 2024-2025: Co-Supervisor for Master Student Valentin Wilhelm. Thesis: Non-hermitian topology, spin physics and transport in hybrid superconducting nanosystems.
   
