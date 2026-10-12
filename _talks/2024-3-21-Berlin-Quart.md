@@ -2,9 +2,9 @@
 title: "Quartet tomography in multiterminal Josephson junctions"
 collection: talks
 type: "Talk"
-permalink: /talks/2024-3-19-Berlin-Quart
+permalink: /talks/2024-3-21-Berlin-Quart
 venue: "Annual Meeting of DPG and DPG-Frühjahrstagung (DPG Spring Meeting) of the Condensed Matter Section (SKM)"
-date: 2024-3-19
+date: 2024-3-21
 location: "Berlin, Germany"
 ---
 
