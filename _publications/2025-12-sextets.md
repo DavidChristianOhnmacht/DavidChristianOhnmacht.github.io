@@ -3,7 +3,7 @@ title: "Sextets in four-terminal Josephson junctions"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-12-sextets
-excerpt: 'We analyze the role of sextet processes in multitermianal Josephson junctions.'
+excerpt: 'We analyze the role of sextet processes in multiterminal Josephson junctions.'
 date: 2025-12-1
 venue: 'Physical Review B'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
