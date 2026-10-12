@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2026-3-25-MTJJ
 venue: "Nordic-German Wilhelm and Else Heraus-Seminar 2026"
-date: 2025-5-26
+date: 2026-3-25
 location: "Nordita, Stockholm"
 ---
 
